@@ -64,6 +64,10 @@
 		"title": "Croatian (Hrvatski)"
 	},
 	{
+		"code": "id-ID",
+		"title": "Indonesian (Bahasa Indonesia)"
+	},
+	{
 		"code": "it-IT",
 		"title": "Italian (Italiano)"
 	},
@@ -78,6 +82,18 @@
 	{
 		"code": "ko-KR",
 		"title": "Korean (한국어)"
+	},
+	{
+		"code": "lt-LT",
+		"title": "Lithuanian (Lietuvių)"
+	},
+	{
+		"code": "ms-MY",
+		"title": "Malay (Bahasa Malaysia)"
+	},
+	{
+		"code": "nb-NO",
+		"title": "Norwegian Bokmål (Norway)"
 	},
 	{
 		"code": "nl-NL",
@@ -100,6 +116,10 @@
 		"title": "Portuguese (Portugal)"
 	},
 	{
+		"code": "ro-RO",
+		"title": "Romanian (Romania)"
+	},
+	{
 		"code": "ru-RU",
 		"title": "Russian (Russia)"
 	},
@@ -112,8 +132,16 @@
 		"title": "Serbian (Српски)"
 	},
 	{
+		"code": "th-TH",
+		"title": "Thailand (ไทย)"
+	},
+	{
 		"code": "tr-TR",
 		"title": "Turkish (Türkçe)"
+	},
+	{
+		"code": "tk-TW",
+		"title": "Turkmen (Türkmençe)"
 	},
 	{
 		"code": "uk-UA",
